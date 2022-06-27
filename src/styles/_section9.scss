@@ -1,0 +1,147 @@
+.section9 {
+    display: flex;
+    align-items: center;
+    height: 1185px;
+    width: 1728px;
+    background: #F0F2F4;
+}
+
+.section9-block-tittle p {
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 46px;
+    line-height: 56px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #000000;
+    
+}
+
+.section9-block-list-meniu  {
+width: 1358px;
+display: flex;
+gap: 20px;
+
+}
+
+.section9-block-meniu-list{
+    display: grid;
+    gap: 20px;
+    width: 700px;
+    height: 700px;
+    grid-template-columns: repeat(2, 1fr);
+    row-gap: 10px;
+}
+.section9-block-list {
+    width: 335px;
+    height: 335px;
+    background: #FFFFFF;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+.section9-block-list h2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 81.5484px;
+    line-height: 66px;
+    color: #E5E5E5;
+}
+
+.section9-block-list p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+    width: 250px;
+    height: 160px;
+}
+
+.section9-block-meniu-right {
+    width: 688px;
+    height: 691px;
+    background: #FFFFFF;
+
+}
+
+.section9-block-right-text h4  {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 46px;
+    line-height: 56px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #000000;
+
+}
+
+.section9-block-right-text p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;    
+    text-align: center;
+    text-transform: capitalize;
+    color: #000000;  
+}
+
+.section9-block-right-text button {
+    width: 610px;
+    height: 114px;
+    background: #F5F5F5;
+    border: 1.6px solid #000000;
+    border-radius: 9px;
+}
+
+.section9-block-right-text button.button1 {
+    width: 610px;
+    height: 114px;
+    background: #F5F5F5;
+    border: 1.6px solid #fffb00;
+    border-radius: 9px;
+}
+
+.section9-block-meniu-right{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.section9-block-right-text {
+    width: 610px;
+    display: grid;
+    row-gap: 55px;
+}
+
+
+.knopka-section9   {
+    display: flex;
+    justify-content: center;
+
+}
+
+.knopka-section9 button.button3 {
+    width: 223.84px;
+    height: 70px;
+    background: #E5E5E5;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    border-radius: 16.2791px;
+
+}
+
+.section9-container {
+    display: grid;
+    row-gap: 91px;
+}
+

@@ -1,0 +1,36 @@
+.navigation-list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 139px;
+}
+
+
+.navigation {
+    display: flex;
+    align-items: center;
+    gap: 55px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 23px;
+}
+
+.navigation button {
+width: 149px;
+height: 79px;
+background-color: Transparent;
+background-repeat:no-repeat;
+cursor:pointer;
+overflow: hidden;        
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 22px;
+text-align: center;
+text-transform: uppercase;
+color: #000000;     
+    
+}

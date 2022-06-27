@@ -1,0 +1,50 @@
+.section1 {
+    background: #E9E743;
+    
+}
+
+.section1-block {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    height: 88px;   
+        
+
+}
+.left-block-section1 button {
+    width: 174px;
+    height: 51px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 33px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+}
+
+.left-block-section1 button {
+cursor: pointer;
+
+}
+
+.left-block-section1 button:hover {
+    background: #E9E743;
+}
+
+.whatsap {
+    display:flex;
+    gap:55px;
+    cursor:pointer;
+}
+
+
+.whatsap {
+    transition: 1s; /* Время эффекта */
+   }
+
+.whatsap:hover {
+    transform: scale(1.2); /* Увеличиваем масштаб */
+   }
